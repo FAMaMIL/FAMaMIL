@@ -1,4 +1,4 @@
-## Hi there 👋
+After the publication of the paper, the code for the FAMa-MIL model will be made publicly available.
 
 <!--
 **FAMaMIL/FAMaMIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
