@@ -1,3 +1,5 @@
+FAMa-MIL: Improving Feature Aggregation in Multiple Instance Learning Using Selective State Space Models
+
 After the publication of the paper, the code for the FAMa-MIL model will be made publicly available.
 
 <!--
