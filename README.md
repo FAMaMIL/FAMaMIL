@@ -1,5 +1,5 @@
-# FAMa-MIL:Enhanced Feature Aggregation in Multiple Instance Learning for Whole Slide Image Classification via Selective State Space Models
-We will publish in the journal The Visual Computer,and the code related to FAMa-MIL will be released upon acceptance of the paper.
+# FAMIL: Enhancing Feature Aggregation in Multiple Instance Learning for WSI classification Using Selective State Space Models
+We will publish in the journal APPLIED INTELLIGENCE,and the code related to FAMa-MIL will be released upon acceptance of the paper.
 <!--
 **FAMaMIL/FAMaMIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
